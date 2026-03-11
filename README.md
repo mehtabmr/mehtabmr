@@ -167,3 +167,13 @@ cd friday
 pip install -r requirements.txt
 
 python miraz.py
+
+
+## ⚡ Commands
+
+memory        → show saved memories
+note: <text>  → save long-term memory
+chat          → show session history
+nmap <target> → scan ports
+voice on      → enable voice mode
+bye           → exit FRIDAY
