@@ -154,3 +154,16 @@ class Miraz:
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7700ff,50:ff00ff,100:00ffff&section=footer&text=Built+with+❤️+on+Android&fontSize=18&fontColor=ffffff&animation=twinkling&fontAlignY=75" width="100%"/>
 
 </div>
+
+## Installation
+
+pkg update
+pkg upgrade
+pkg install python
+pkg install git
+
+git clone https://github.com/username/friday
+cd friday
+pip install -r requirements.txt
+
+python miraz.py
