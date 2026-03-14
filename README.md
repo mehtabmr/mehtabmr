@@ -1,3 +1,4 @@
+<p align="center"><img src="file_00000000c7107208854b55cfcc25f7ef.png" width="100%"/></p>
 <div align="center">
 
 <!-- FRIDAY BANNER -->
