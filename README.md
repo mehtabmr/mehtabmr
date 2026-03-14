@@ -1,3 +1,4 @@
+<p align="center"><img src="https://raw.githubusercontent.com/mehtabmr/friday-assistant/main/file_00000000c7107208854b55cfcc25f7ef.png" width="100%"/></p>
 <div align="center">
 
 <!-- FRIDAY BANNER -->
