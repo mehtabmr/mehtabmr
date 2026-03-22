@@ -175,7 +175,6 @@ pip install -r requirements.txt
 
 python miraz.py
 
-
 ## ⚡ Commands
 
 memory        → show saved memories
@@ -184,3 +183,34 @@ chat          → show session history
 nmap <target> → scan ports
 voice on      → enable voice mode
 bye           → exit FRIDAY
+
+
+
+#!/bin/bash
+# Friday AI - Sare packages install karo
+# Termux mein chalao: bash install_packages.sh
+
+echo "======================================"
+echo "  Friday AI - Package Installer"
+echo "======================================"
+echo ""
+
+echo "📦 Python packages install ho rahe hain..."
+pip install groq --break-system-packages
+pip install edge-tts --break-system-packages
+pip install google-genai --break-system-packages
+pip install pytz --break-system-packages
+pip install qrcode --break-system-packages
+pip install SpeechRecognition --break-system-packages
+pip install requests --break-system-packages
+
+echo ""
+echo "📦 Termux packages install ho rahe hain..."
+pkg install mpv -y
+pkg install termux-api -y
+
+echo ""
+echo "======================================"
+echo "  ✅ Sab packages install ho gaye!"
+echo "  Ab chalao: python3 miraz.py"
+echo "======================================"
